@@ -1,0 +1,3 @@
+Namaste Git
+This is just to commit
+a few changes into new branch
